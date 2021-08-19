@@ -1,0 +1,1 @@
+In nn_2.py, the file 'roll_number.csv' is automatically written to the directory of nn_2.py file.
